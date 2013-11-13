@@ -1,3 +1,10 @@
+/*
+   *  http_stream.h
+   *
+   *  Created on:  Nov 7, 2013
+   *  Author: sijiewang
+*/
+
 #ifndef HTTP_STREAM_H
 #define HTTP_STREAM_H
 

@@ -1,3 +1,10 @@
+/*
+   *  http_stream.cpp
+   *
+   *  Created on:  Nov 7, 2013
+   *  Author: sijiewang
+*/
+
 #include "http_stream.h"
 
 #include <stdio.h>
